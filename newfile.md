@@ -1,1 +1,1 @@
-newfile.
+Here is text
